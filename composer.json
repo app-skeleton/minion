@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/minion",
+	"name":        "app-skeleton/minion",
 	"type":        "kohana-module",
 	"description": "The official kohana module for running tasks via the CLI",
 	"homepage":    "http://kohanaframework.org",
@@ -26,8 +26,7 @@
 	},
 	"extra": {
 		"branch-alias": {
-			"dev-3.3/develop": "3.3.x-dev",
-			"dev-3.4/develop": "3.4.x-dev"
+			"dev-3.3/develop": "3.3.x-dev"
 		}
 	}
 }
